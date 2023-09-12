@@ -1,4 +1,0 @@
-[build]
-  base = "redux"
-  publish = "redux"
-  command = "npm run build"
